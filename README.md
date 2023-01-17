@@ -44,7 +44,7 @@ Additionally to the required parameters lat and lng you can add the following ar
 ## Embed with iFrame
 
 With the following code you can embed PeakFinder directly to your homepage. 
-Check out this example page: [basicexample_iframe.html](https://fabiz.github.io/PeakFinder-API/basicexample_iframe.html).
+Check out this example page: [basicexample_iframe.html](https://mh86868.github.io/PeakFinder-API/basicexample_iframe.html).
 
 
 ```html
@@ -59,7 +59,7 @@ Check out this example page: [basicexample_iframe.html](https://fabiz.github.io/
 
 This method gives you the most flexibility. You can use Javascript to control the PeakFinder module.
 
-Check out this example page: [basicexample_canvas.html](https://fabiz.github.io/PeakFinder-API/basicexample_canvas.html).
+Check out this example page: [basicexample_canvas.html](https://mh86868.github.io/PeakFinder-API/basicexample_canvas.html).
 \
 \
 You must do the following steps: 
